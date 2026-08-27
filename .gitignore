@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# SLURM job output
+slurm-*.out
+slurm-*.err
+*.out
+*.err
+!**/README*.out
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Scratch and backups
+*.bak
+*.bak_*
+*.orig
+*.tmp
+scratch/
+
+# Large intermediates that are regenerated, not published.
+# The published dataset is 03_dataset/raptor_dataset.csv, built by
+# 03_dataset/build_raptor_dataset.py from inputs outside this repo.
+*.gbw
+*.densities

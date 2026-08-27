@@ -1,0 +1,15 @@
+{
+  "depth": 10,
+  "message_hidden_dim": 1250,
+  "max_lr": 0.0003,
+  "batch_size": 64,
+  "ffn_hidden_dim": 750,
+  "atom_ffn_hidden_dim": 750,
+  "ffn_num_layers": 2,
+  "atom_ffn_num_layers": 2,
+  "dropout": 0.0,
+  "run_name": "grid_ffn750_affn750_do0p0",
+  "val_mae_ev": 0.074258,
+  "val_rmse_ev": 0.126921,
+  "n_val": 12695
+}
