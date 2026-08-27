@@ -135,9 +135,7 @@ the same checkpoint as `04_modeling/production_model/best.pt`
 
 ## Licence
 
-CC BY 4.0 (`LICENSE`), covering the code, the dataset and the model weights alike. Use,
-adapt and redistribute freely, including commercially — the only condition is
-attribution. For academic use, citing the RaPTOR paper satisfies that.
+CC BY 4.0 (`LICENSE`), covering the code, the dataset and the model weights alike. For academic use, please cite the RaPTOR paper.
 
 ---
 
